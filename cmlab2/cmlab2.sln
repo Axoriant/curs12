@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmlab2", "cmlab2\cmlab2.csproj", "{C07A146F-947B-4092-BF1E-7024C0460E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07A146F-947B-4092-BF1E-7024C0460E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07A146F-947B-4092-BF1E-7024C0460E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07A146F-947B-4092-BF1E-7024C0460E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07A146F-947B-4092-BF1E-7024C0460E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3D408E-5630-48BA-92FC-CA3749D2043A}
+	EndGlobalSection
+EndGlobal
